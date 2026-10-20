@@ -1,0 +1,17 @@
+# Entorno virtual de Python
+stream_train/
+
+# Archivos con secretos
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Configuración local de Streamlit
+.streamlit/config.toml
+
+.DS_Store

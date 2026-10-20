@@ -1,0 +1,251 @@
+﻿ID_Cliente,Genero,Edad,Tipo_Playera,Talla,Color,Tipo_Tela,Precio_MXN,Costo_MXN,Margen_MXN,Compró Venta Especial Motos,Año_Venta
+C0001,Mujer,40,Oversize,XL,Blanco,Algodón,288,122,166,Sí,2021
+C0002,No binario,37,Personalizada,S,Rojo,Algodón orgánico,416,187,229,No,2025
+C0003,Mujer,30,Básica,M,Gris,Mezcla algodón-poliéster,195,74,121,Sí,2024
+C0004,Mujer,37,Oversize,XL,Negro,Algodón,299,127,172,Sí,2024
+C0005,Mujer,30,Personalizada,XS,Negro,Algodón orgánico,387,188,199,Sí,2025
+C0006,Hombre,26,Básica,L,Rojo,Poliéster,194,72,122,Sí,2025
+C0007,No binario,33,Personalizada,L,Gris,Poliéster,397,171,226,Sí,2023
+C0008,Mujer,26,Oversize,M,Azul,Algodón orgánico,279,116,163,Sí,2024
+C0009,Hombre,39,Oversize,M,Negro,Algodón,299,136,163,Sí,2022
+C0010,Hombre,32,Personalizada,L,Rojo,Algodón orgánico,368,179,189,Sí,2023
+C0011,Mujer,43,Polo,XXL,Negro,Algodón orgánico,347,155,192,No,2021
+C0012,Hombre,37,Deportiva,L,Negro,Algodón,299,102,197,No,2020
+C0013,No binario,36,Deportiva,L,Negro,Algodón,291,117,174,No,2025
+C0014,Mujer,25,Básica,XXL,Azul,Poliéster,207,65,142,Sí,2024
+C0015,Hombre,45,Básica,XL,Azul,Algodón,169,65,104,No,2026
+C0016,No binario,35,Polo,XL,Gris,Algodón orgánico,338,165,173,Sí,2024
+C0017,Mujer,34,Polo,M,Verde,Algodón,353,161,192,Sí,2021
+C0018,Mujer,30,Oversize,XL,Verde,Algodón,263,134,129,Sí,2024
+C0019,Mujer,28,Deportiva,S,Gris,Poliéster,262,114,148,Sí,2022
+C0020,Hombre,37,Deportiva,M,Gris,Algodón,249,118,131,No,2020
+C0021,Mujer,41,Polo,S,Negro,Algodón,303,147,156,Sí,2021
+C0022,Hombre,28,Polo,XXL,Negro,Algodón,332,153,179,Sí,2025
+C0023,Mujer,40,Básica,M,Gris,Algodón,201,79,122,No,2026
+C0024,Hombre,33,Personalizada,M,Verde,Poliéster,415,167,248,Sí,2026
+C0025,No binario,43,Deportiva,XL,Blanco,Algodón,250,109,141,Sí,2025
+C0026,Hombre,26,Deportiva,M,Azul,Algodón,240,114,126,No,2025
+C0027,Hombre,27,Personalizada,M,Rojo,Poliéster,376,169,207,Sí,2026
+C0028,Hombre,43,Deportiva,XL,Negro,Mezcla algodón-poliéster,244,118,126,Sí,2025
+C0029,No binario,43,Polo,XS,Verde,Mezcla algodón-poliéster,338,167,171,No,2025
+C0030,Mujer,28,Oversize,XL,Blanco,Algodón orgánico,297,132,165,Sí,2025
+C0031,Mujer,41,Básica,XL,Blanco,Mezcla algodón-poliéster,174,82,92,Sí,2020
+C0032,Hombre,29,Deportiva,XL,Gris,Mezcla algodón-poliéster,259,106,153,Sí,2025
+C0033,Mujer,37,Oversize,L,Verde,Algodón,270,112,158,No,2020
+C0034,Hombre,31,Personalizada,M,Negro,Poliéster,385,184,201,No,2025
+C0035,Mujer,28,Deportiva,XL,Verde,Algodón orgánico,269,124,145,No,2024
+C0036,Hombre,31,Oversize,L,Verde,Algodón orgánico,267,129,138,No,2023
+C0037,No binario,37,Básica,L,Verde,Poliéster,186,72,114,No,2022
+C0038,No binario,31,Oversize,M,Negro,Algodón,297,142,155,No,2024
+C0039,Mujer,40,Oversize,S,Blanco,Algodón,266,121,145,No,2023
+C0040,No binario,29,Personalizada,S,Verde,Algodón orgánico,413,161,252,Sí,2025
+C0041,Hombre,29,Oversize,S,Rojo,Algodón orgánico,307,133,174,No,2025
+C0042,Hombre,36,Oversize,XS,Gris,Poliéster,278,122,156,Sí,2025
+C0043,No binario,34,Personalizada,M,Gris,Algodón orgánico,407,162,245,Sí,2022
+C0044,No binario,38,Polo,XL,Gris,Algodón orgánico,338,147,191,Sí,2024
+C0045,Hombre,42,Básica,M,Rojo,Poliéster,169,89,80,Sí,2023
+C0046,No binario,45,Polo,XS,Verde,Algodón orgánico,353,149,204,Sí,2023
+C0047,No binario,37,Básica,XL,Negro,Algodón,167,67,100,No,2020
+C0048,Hombre,25,Oversize,L,Rojo,Algodón orgánico,287,144,143,Sí,2023
+C0049,Mujer,41,Personalizada,L,Rojo,Poliéster,399,194,205,Sí,2025
+C0050,No binario,44,Básica,L,Blanco,Algodón orgánico,198,94,104,Sí,2023
+C0051,No binario,39,Personalizada,XXL,Verde,Algodón,383,179,204,Sí,2022
+C0052,No binario,29,Oversize,XXL,Verde,Poliéster,311,118,193,Sí,2020
+C0053,Hombre,28,Oversize,M,Azul,Mezcla algodón-poliéster,261,141,120,No,2024
+C0054,No binario,35,Básica,XL,Blanco,Poliéster,188,72,116,No,2024
+C0055,Mujer,43,Oversize,L,Negro,Mezcla algodón-poliéster,273,115,158,No,2021
+C0056,Mujer,44,Oversize,S,Verde,Algodón orgánico,265,128,137,Sí,2025
+C0057,Hombre,44,Polo,M,Negro,Mezcla algodón-poliéster,317,140,177,Sí,2025
+C0058,Mujer,36,Básica,XS,Rojo,Algodón orgánico,176,87,89,Sí,2020
+C0059,No binario,35,Polo,L,Rojo,Algodón,344,169,175,Sí,2023
+C0060,Mujer,29,Básica,M,Gris,Mezcla algodón-poliéster,178,67,111,No,2021
+C0061,No binario,34,Deportiva,M,Rojo,Mezcla algodón-poliéster,242,109,133,Sí,2024
+C0062,Hombre,43,Oversize,L,Rojo,Poliéster,271,145,126,No,2024
+C0063,Mujer,40,Polo,M,Azul,Algodón orgánico,338,142,196,No,2022
+C0064,No binario,32,Personalizada,L,Azul,Algodón orgánico,364,193,171,Sí,2026
+C0065,Hombre,30,Personalizada,M,Verde,Poliéster,415,187,228,Sí,2021
+C0066,Mujer,43,Básica,XS,Verde,Mezcla algodón-poliéster,178,81,97,No,2026
+C0067,No binario,41,Personalizada,L,Negro,Algodón,387,167,220,No,2021
+C0068,Hombre,42,Oversize,M,Blanco,Algodón,289,121,168,No,2022
+C0069,Mujer,39,Básica,M,Gris,Algodón orgánico,206,71,135,No,2026
+C0070,Mujer,30,Personalizada,L,Rojo,Algodón,403,185,218,Sí,2026
+C0071,Hombre,32,Deportiva,M,Gris,Algodón,295,96,199,No,2024
+C0072,Mujer,30,Polo,XL,Azul,Algodón orgánico,328,155,173,No,2024
+C0073,No binario,38,Polo,M,Negro,Algodón orgánico,339,146,193,No,2021
+C0074,Hombre,45,Básica,L,Rojo,Algodón,207,70,137,Sí,2026
+C0075,Mujer,38,Personalizada,L,Negro,Poliéster,406,179,227,No,2020
+C0076,Hombre,37,Deportiva,XL,Negro,Poliéster,240,95,145,Sí,2026
+C0077,No binario,28,Personalizada,L,Azul,Mezcla algodón-poliéster,387,191,196,No,2026
+C0078,Hombre,32,Personalizada,XL,Blanco,Poliéster,388,183,205,Sí,2026
+C0079,No binario,41,Básica,XL,Verde,Mezcla algodón-poliéster,201,83,118,Sí,2023
+C0080,Hombre,39,Deportiva,XXL,Verde,Mezcla algodón-poliéster,291,96,195,No,2023
+C0081,Hombre,28,Polo,XS,Blanco,Poliéster,332,168,164,No,2023
+C0082,No binario,34,Polo,L,Negro,Mezcla algodón-poliéster,357,172,185,Sí,2020
+C0083,No binario,39,Polo,L,Gris,Algodón,357,145,212,Sí,2022
+C0084,Hombre,28,Oversize,S,Azul,Mezcla algodón-poliéster,313,140,173,No,2021
+C0085,Hombre,32,Personalizada,M,Azul,Algodón,401,165,236,Sí,2026
+C0086,Mujer,36,Básica,M,Negro,Mezcla algodón-poliéster,175,81,94,No,2020
+C0087,Mujer,45,Personalizada,S,Verde,Algodón orgánico,401,165,236,No,2021
+C0088,Mujer,32,Básica,S,Azul,Poliéster,165,70,95,Sí,2026
+C0089,Hombre,30,Básica,M,Blanco,Algodón orgánico,191,80,111,Sí,2022
+C0090,Hombre,36,Oversize,M,Rojo,Algodón,262,122,140,Sí,2025
+C0091,Hombre,32,Deportiva,M,Verde,Mezcla algodón-poliéster,242,102,140,Sí,2022
+C0092,Mujer,42,Polo,XS,Azul,Mezcla algodón-poliéster,322,172,150,No,2025
+C0093,Hombre,27,Oversize,XL,Verde,Mezcla algodón-poliéster,276,142,134,Sí,2020
+C0094,Hombre,26,Básica,S,Rojo,Algodón,194,67,127,Sí,2023
+C0095,No binario,39,Polo,XXL,Gris,Mezcla algodón-poliéster,323,167,156,No,2022
+C0096,No binario,27,Personalizada,S,Blanco,Poliéster,382,180,202,No,2024
+C0097,Hombre,31,Polo,XL,Azul,Algodón orgánico,328,151,177,Sí,2024
+C0098,Mujer,41,Oversize,XL,Negro,Algodón orgánico,298,142,156,Sí,2025
+C0099,Hombre,25,Oversize,S,Rojo,Poliéster,279,125,154,Sí,2020
+C0100,Mujer,34,Polo,L,Verde,Mezcla algodón-poliéster,315,157,158,No,2020
+C0101,Mujer,31,Oversize,M,Azul,Algodón,260,131,129,Sí,2022
+C0102,Hombre,30,Polo,M,Blanco,Mezcla algodón-poliéster,325,155,170,Sí,2020
+C0103,Mujer,25,Polo,XL,Gris,Poliéster,347,159,188,Sí,2022
+C0104,Hombre,35,Deportiva,S,Negro,Algodón orgánico,257,114,143,No,2020
+C0105,Mujer,42,Polo,XL,Verde,Mezcla algodón-poliéster,344,169,175,Sí,2024
+C0106,No binario,25,Deportiva,L,Gris,Poliéster,277,104,173,No,2026
+C0107,No binario,41,Básica,L,Blanco,Algodón orgánico,189,91,98,No,2020
+C0108,No binario,41,Personalizada,L,Verde,Algodón,393,183,210,Sí,2023
+C0109,Mujer,27,Polo,M,Azul,Algodón orgánico,309,170,139,No,2025
+C0110,Hombre,34,Personalizada,M,Verde,Algodón,361,163,198,Sí,2025
+C0111,No binario,29,Deportiva,M,Blanco,Algodón orgánico,297,128,169,No,2025
+C0112,No binario,39,Personalizada,XL,Rojo,Algodón,394,170,224,No,2020
+C0113,Mujer,39,Oversize,L,Negro,Algodón orgánico,293,140,153,Sí,2026
+C0114,No binario,37,Oversize,XL,Verde,Mezcla algodón-poliéster,296,125,171,Sí,2021
+C0115,Mujer,41,Deportiva,S,Rojo,Mezcla algodón-poliéster,298,98,200,No,2023
+C0116,Mujer,32,Deportiva,L,Gris,Algodón,295,127,168,Sí,2024
+C0117,No binario,32,Básica,XXL,Blanco,Algodón,214,78,136,Sí,2020
+C0118,Mujer,32,Polo,M,Verde,Algodón,318,147,171,No,2025
+C0119,Hombre,43,Deportiva,XL,Blanco,Poliéster,298,96,202,No,2021
+C0120,No binario,33,Oversize,XL,Negro,Algodón orgánico,275,119,156,Sí,2022
+C0121,No binario,31,Personalizada,M,Azul,Algodón orgánico,367,174,193,No,2024
+C0122,Mujer,40,Polo,XL,Blanco,Algodón orgánico,320,141,179,No,2021
+C0123,Mujer,40,Personalizada,XL,Rojo,Poliéster,383,179,204,No,2022
+C0124,Hombre,28,Polo,S,Verde,Mezcla algodón-poliéster,323,166,157,Sí,2022
+C0125,Hombre,28,Básica,L,Gris,Algodón orgánico,194,81,113,Sí,2023
+C0126,Hombre,37,Oversize,L,Gris,Algodón orgánico,318,114,204,Sí,2020
+C0127,No binario,40,Personalizada,M,Verde,Algodón,398,177,221,No,2021
+C0128,Hombre,25,Deportiva,S,Blanco,Mezcla algodón-poliéster,273,121,152,Sí,2024
+C0129,Hombre,38,Polo,S,Negro,Algodón orgánico,300,166,134,No,2025
+C0130,Mujer,28,Personalizada,XL,Blanco,Algodón orgánico,388,193,195,Sí,2026
+C0131,Mujer,32,Oversize,XL,Verde,Mezcla algodón-poliéster,281,130,151,No,2024
+C0132,No binario,27,Deportiva,XS,Azul,Algodón,248,117,131,No,2023
+C0133,Hombre,31,Deportiva,XL,Verde,Algodón orgánico,297,99,198,Sí,2024
+C0134,No binario,27,Oversize,XL,Rojo,Algodón,266,112,154,No,2022
+C0135,Mujer,25,Oversize,L,Verde,Mezcla algodón-poliéster,311,126,185,Sí,2021
+C0136,Mujer,39,Polo,M,Azul,Mezcla algodón-poliéster,314,143,171,No,2026
+C0137,Hombre,42,Básica,S,Rojo,Mezcla algodón-poliéster,213,69,144,Sí,2023
+C0138,Hombre,37,Oversize,L,Azul,Poliéster,269,143,126,Sí,2025
+C0139,No binario,39,Deportiva,S,Verde,Poliéster,242,114,128,Sí,2020
+C0140,Hombre,26,Deportiva,L,Azul,Poliéster,284,103,181,Sí,2023
+C0141,Mujer,27,Personalizada,M,Verde,Poliéster,395,191,204,No,2023
+C0142,Hombre,44,Básica,M,Gris,Algodón,216,90,126,No,2020
+C0143,Mujer,43,Oversize,M,Verde,Algodón,264,115,149,Sí,2023
+C0144,No binario,37,Polo,L,Azul,Mezcla algodón-poliéster,302,169,133,No,2026
+C0145,Hombre,39,Oversize,L,Gris,Algodón orgánico,302,129,173,Sí,2023
+C0146,No binario,29,Deportiva,S,Verde,Algodón,284,120,164,Sí,2020
+C0147,Mujer,43,Polo,XL,Verde,Poliéster,350,174,176,Sí,2025
+C0148,Hombre,39,Básica,L,Azul,Algodón orgánico,198,68,130,Sí,2026
+C0149,No binario,39,Oversize,L,Rojo,Algodón orgánico,311,124,187,No,2025
+C0150,Mujer,34,Personalizada,L,Gris,Algodón orgánico,417,179,238,Sí,2022
+C0151,Hombre,26,Oversize,M,Negro,Mezcla algodón-poliéster,316,113,203,No,2025
+C0152,No binario,44,Oversize,S,Gris,Algodón,267,124,143,No,2025
+C0153,No binario,25,Polo,M,Gris,Algodón orgánico,333,144,189,No,2023
+C0154,No binario,35,Básica,S,Verde,Poliéster,192,86,106,Sí,2020
+C0155,Mujer,27,Polo,S,Gris,Algodón,314,159,155,Sí,2023
+C0156,Hombre,41,Oversize,S,Gris,Poliéster,294,128,166,No,2025
+C0157,No binario,33,Deportiva,S,Blanco,Algodón,292,112,180,No,2023
+C0158,No binario,29,Básica,M,Rojo,Mezcla algodón-poliéster,183,90,93,Sí,2023
+C0159,No binario,26,Básica,M,Negro,Algodón,211,73,138,Sí,2024
+C0160,Hombre,31,Básica,S,Verde,Algodón,189,75,114,No,2025
+C0161,Hombre,26,Personalizada,L,Gris,Algodón,367,168,199,No,2024
+C0162,Hombre,30,Personalizada,L,Blanco,Algodón,369,160,209,Sí,2022
+C0163,Hombre,32,Básica,XL,Rojo,Algodón,218,83,135,Sí,2026
+C0164,Hombre,30,Básica,M,Negro,Algodón,217,93,124,Sí,2025
+C0165,No binario,40,Polo,S,Rojo,Algodón orgánico,319,149,170,No,2021
+C0166,Hombre,32,Polo,S,Rojo,Mezcla algodón-poliéster,335,164,171,Sí,2026
+C0167,Hombre,30,Básica,M,Gris,Algodón orgánico,192,63,129,Sí,2020
+C0168,Mujer,30,Básica,M,Rojo,Mezcla algodón-poliéster,188,83,105,Sí,2021
+C0169,Mujer,42,Oversize,L,Gris,Mezcla algodón-poliéster,305,137,168,No,2021
+C0170,Hombre,44,Personalizada,L,Rojo,Algodón,401,166,235,Sí,2026
+C0171,Hombre,35,Deportiva,S,Negro,Poliéster,256,95,161,No,2022
+C0172,No binario,38,Oversize,L,Negro,Mezcla algodón-poliéster,264,113,151,No,2026
+C0173,Hombre,31,Polo,L,Negro,Poliéster,343,156,187,No,2022
+C0174,Mujer,45,Básica,M,Gris,Poliéster,220,77,143,No,2020
+C0175,Mujer,43,Básica,S,Gris,Algodón,162,60,102,No,2020
+C0176,Hombre,29,Oversize,XS,Negro,Mezcla algodón-poliéster,298,129,169,Sí,2023
+C0177,No binario,38,Personalizada,XL,Blanco,Poliéster,391,167,224,No,2020
+C0178,No binario,35,Polo,M,Azul,Poliéster,313,148,165,No,2026
+C0179,Mujer,40,Oversize,XL,Gris,Algodón orgánico,265,129,136,Sí,2021
+C0180,No binario,41,Oversize,L,Blanco,Mezcla algodón-poliéster,281,118,163,No,2024
+C0181,Hombre,33,Polo,M,Blanco,Mezcla algodón-poliéster,330,154,176,No,2025
+C0182,Hombre,28,Deportiva,XL,Gris,Poliéster,275,104,171,No,2021
+C0183,No binario,37,Básica,M,Verde,Poliéster,168,64,104,Sí,2024
+C0184,No binario,26,Deportiva,L,Azul,Mezcla algodón-poliéster,250,99,151,Sí,2020
+C0185,No binario,27,Oversize,M,Gris,Poliéster,300,121,179,No,2024
+C0186,Mujer,32,Oversize,M,Negro,Algodón orgánico,290,135,155,Sí,2024
+C0187,Hombre,38,Básica,XXL,Azul,Poliéster,201,60,141,No,2025
+C0188,Hombre,26,Oversize,L,Rojo,Algodón,315,131,184,Sí,2021
+C0189,No binario,45,Básica,M,Verde,Mezcla algodón-poliéster,199,62,137,No,2024
+C0190,Hombre,35,Polo,M,Negro,Mezcla algodón-poliéster,358,143,215,Sí,2021
+C0191,Hombre,35,Personalizada,M,Rojo,Poliéster,360,185,175,Sí,2023
+C0192,Mujer,34,Polo,M,Blanco,Poliéster,350,170,180,Sí,2025
+C0193,Hombre,30,Deportiva,L,Azul,Algodón,276,107,169,Sí,2022
+C0194,Mujer,38,Oversize,L,Negro,Algodón,315,113,202,No,2021
+C0195,No binario,34,Básica,L,Gris,Algodón orgánico,205,75,130,Sí,2023
+C0196,No binario,25,Polo,XL,Negro,Algodón,316,151,165,No,2020
+C0197,Mujer,32,Polo,L,Verde,Algodón,306,147,159,Sí,2025
+C0198,No binario,27,Polo,XL,Rojo,Algodón,335,150,185,Sí,2025
+C0199,Mujer,38,Deportiva,XL,Negro,Algodón,248,123,125,No,2021
+C0200,Mujer,28,Personalizada,L,Azul,Poliéster,373,193,180,No,2020
+C0201,Mujer,41,Polo,M,Blanco,Poliéster,336,162,174,No,2020
+C0202,Hombre,28,Oversize,S,Rojo,Algodón,263,112,151,Sí,2025
+C0203,No binario,41,Oversize,XXL,Blanco,Poliéster,294,129,165,Sí,2022
+C0204,Hombre,36,Personalizada,M,Azul,Poliéster,361,176,185,Sí,2025
+C0205,Hombre,44,Deportiva,XL,Blanco,Poliéster,269,109,160,No,2021
+C0206,Hombre,43,Básica,XL,Verde,Poliéster,186,71,115,Sí,2025
+C0207,Hombre,30,Oversize,XL,Verde,Algodón,280,125,155,No,2025
+C0208,No binario,30,Deportiva,M,Blanco,Algodón orgánico,276,121,155,Sí,2025
+C0209,Hombre,31,Deportiva,L,Azul,Algodón orgánico,251,110,141,Sí,2024
+C0210,Mujer,37,Deportiva,M,Verde,Algodón orgánico,284,106,178,Sí,2024
+C0211,Mujer,40,Básica,L,Negro,Mezcla algodón-poliéster,174,65,109,No,2023
+C0212,No binario,33,Polo,M,Azul,Algodón orgánico,302,162,140,No,2020
+C0213,No binario,35,Personalizada,M,Gris,Poliéster,377,166,211,Sí,2026
+C0214,Mujer,44,Básica,M,Negro,Algodón orgánico,218,71,147,Sí,2024
+C0215,No binario,34,Deportiva,XS,Rojo,Algodón,288,127,161,Sí,2020
+C0216,No binario,27,Oversize,L,Rojo,Poliéster,303,137,166,Sí,2021
+C0217,Hombre,36,Polo,S,Gris,Algodón,309,154,155,No,2025
+C0218,Mujer,44,Oversize,S,Rojo,Algodón,306,145,161,No,2026
+C0219,Mujer,39,Oversize,XL,Negro,Algodón orgánico,287,114,173,No,2022
+C0220,Mujer,45,Deportiva,XS,Rojo,Poliéster,276,97,179,Sí,2025
+C0221,Mujer,38,Personalizada,M,Blanco,Mezcla algodón-poliéster,396,173,223,Sí,2026
+C0222,No binario,34,Deportiva,L,Verde,Algodón,274,121,153,Sí,2022
+C0223,Mujer,44,Oversize,XL,Verde,Mezcla algodón-poliéster,301,112,189,No,2021
+C0224,Hombre,28,Personalizada,M,Negro,Poliéster,370,177,193,No,2024
+C0225,No binario,28,Polo,M,Rojo,Algodón orgánico,321,157,164,Sí,2020
+C0226,Hombre,33,Deportiva,XL,Negro,Mezcla algodón-poliéster,263,109,154,No,2023
+C0227,No binario,25,Oversize,XL,Azul,Algodón,277,114,163,No,2024
+C0228,Mujer,45,Polo,S,Verde,Mezcla algodón-poliéster,304,145,159,Sí,2021
+C0229,Mujer,34,Deportiva,L,Rojo,Algodón,285,122,163,No,2025
+C0230,No binario,26,Polo,L,Blanco,Poliéster,337,169,168,No,2023
+C0231,No binario,34,Personalizada,XL,Rojo,Mezcla algodón-poliéster,363,191,172,Sí,2020
+C0232,Mujer,34,Polo,M,Negro,Mezcla algodón-poliéster,326,173,153,Sí,2025
+C0233,Hombre,27,Polo,M,Gris,Algodón,317,146,171,No,2026
+C0234,Mujer,29,Personalizada,L,Verde,Algodón,381,184,197,No,2026
+C0235,Hombre,40,Básica,L,Verde,Mezcla algodón-poliéster,182,90,92,No,2021
+C0236,No binario,36,Deportiva,M,Gris,Algodón,247,98,149,Sí,2026
+C0237,No binario,41,Personalizada,M,Verde,Algodón,413,189,224,Sí,2025
+C0238,Mujer,25,Oversize,L,Negro,Algodón orgánico,264,115,149,Sí,2020
+C0239,No binario,31,Deportiva,L,Negro,Algodón,268,95,173,No,2025
+C0240,No binario,42,Deportiva,L,Rojo,Mezcla algodón-poliéster,292,112,180,No,2026
+C0241,Mujer,34,Personalizada,S,Rojo,Algodón orgánico,369,165,204,Sí,2020
+C0242,No binario,31,Oversize,S,Azul,Algodón,287,121,166,Sí,2025
+C0243,No binario,26,Polo,L,Azul,Poliéster,302,165,137,No,2021
+C0244,Hombre,41,Deportiva,L,Rojo,Mezcla algodón-poliéster,253,97,156,Sí,2021
+C0245,Mujer,44,Deportiva,XL,Negro,Poliéster,251,109,142,Sí,2026
+C0246,Hombre,30,Personalizada,L,Blanco,Mezcla algodón-poliéster,387,177,210,No,2021
+C0247,Mujer,42,Deportiva,XL,Azul,Algodón,240,126,114,Sí,2026
+C0248,Hombre,37,Deportiva,L,Verde,Algodón,277,128,149,No,2022
+C0249,No binario,41,Personalizada,M,Azul,Poliéster,395,171,224,Sí,2023
+C0250,No binario,25,Deportiva,XXL,Verde,Poliéster,253,96,157,Sí,2022
